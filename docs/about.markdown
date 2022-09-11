@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Categories
+title: 专栏
 permalink: /about/
 ---
 
-welcome to marvin's blog
+## 欢迎来到Marvin的博客
+
+
+
