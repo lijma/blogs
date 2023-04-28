@@ -4,12 +4,11 @@ title: 'Prompt Chain SpringBoot'
 categories:
 - ChatGPT
 ---
-
 # SpringBoot Prompting Chain
 
 目标： 探索ChatGPT在软件开发微服务API的能力
 
-项目地址： [GPT-Coding/prompt-chain-springboo](https://github.com/GPT-Coding/prompt-chain-springboot)
+项目地址： [https://github.com/chatgpt-community/prompt-springboot]()
 
 ## 实验目标
 
@@ -150,7 +149,9 @@ what's `tech stack` for  `MallApplication`
 ### 启发和思考
 
 该测试验证了通过Prompt Chain可以很好的与GPT完成交互，并最终于ChatGPT一起完成软件开发工程领域的各项工作。
+
 > 工作总结
+
 * 脚手架创建工作
 * 需求理解和拆分
 * 工序设计
@@ -158,7 +159,9 @@ what's `tech stack` for  `MallApplication`
 * 生成生成代码
 
 并且，在设计Prompt Chain的时候，如果瞒住以下一些原则会使得交付流程更加顺滑，提高更高的准确率
+
 > Prompt Chain设计原则
+
 * 快速性
 * 顺序性
 * 可回溯
